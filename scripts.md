@@ -32,7 +32,7 @@ https://github.com/iHamsterball/ingress-mission-map-plugin-fix-googlemap-china-o
 
 [IITC](http://iitc.jonatkins.com/release/total-conversion-build.user.js)
 
-#####Portal Info
+##### Portal Info
 
 [reso energy pct in portal detail](http://iitc.jonatkins.com/release/plugins/reso-energy-pct-in-portal-detail.user.js)
 
@@ -68,10 +68,21 @@ https://github.com/iHamsterball/ingress-mission-map-plugin-fix-googlemap-china-o
 
 [Missions](http://iitc.jonatkins.com/release/plugins/missions.user.js)
 
-#### Map Tiles
+##### Map Tiles
 
 [OpenStreetMap.org map tiles](http://iitc.jonatkins.com/release/plugins/basemap-openstreetmap.user.js)
 
 [Gray Google Roads](http://iitc.jonatkins.com/release/plugins/basemap-gmaps-gray.user.js)
 
 [Blank map](http://iitc.jonatkins.com/release/plugins/basemap-blank.user.js)
+
+##### Tweaks
+
+[force https access for ingress.com/intel](http://iitc.jonatkins.com/release/plugins/force-https.user.js)
+
+[Fix Google Map offsets in China](http://iitc.jonatkins.com/release/plugins/fix-googlemap-china-offset.user.js)
+
+##### MISC
+
+[Sync](http://iitc.jonatkins.com/release/plugins/sync.user.js)
+
