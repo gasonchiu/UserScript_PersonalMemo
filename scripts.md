@@ -25,7 +25,7 @@ http://www.clipconverter.cc/extension/clipconverter.user.js
 
 - https://ingressmm.com火星纠偏
 
-https://github.com/iHamsterball/ingress-mission-map-plugin-fix-googlemap-china-offset/blob/master/Ingress%20Mission%20Map%20Plugin-%20Fix%20Google%20Map%20offsets%20in%20China.user.js
+https://github.com/iHamsterball/ingress-mission-map-plugin-fix-googlemap-china-offset/raw/master/Ingress%20Mission%20Map%20Plugin-%20Fix%20Google%20Map%20offsets%20in%20China.user.js
 
 #### [ingress-intel-total-conversion](http://iitc.jonatkins.com/)或者[这里](https://github.com/iitc-project/ingress-intel-total-conversion)
 - ingress.com/intel total conversion user script with some new features. Should allow easier extension of the intel map.
